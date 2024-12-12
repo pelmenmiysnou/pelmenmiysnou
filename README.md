@@ -1,16 +1,16 @@
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    GitHub Profile Header
-    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
 <div class="header">
-    <h1>My GitHub Profile</h1>
-    <p> Ya krutoy specialist !</p>
+    <h1>Me and my pain</h1>
+    <img src="https://media1.tenor.com/m/vHtVl_ajV70AAAAC/hollowknight-suicide.gif" width="200"/>
+    <h1>thanks for watch</h1>
 </div>
-
+<div class="heder">
+    <img src="https://media1.tenor.com/m/l2TUqFrAWXkAAAAC/petmyth-hollow-knight.gif" width="200"/>
+    <p> good day !</p>
+</div>
 </body>
 </html>
